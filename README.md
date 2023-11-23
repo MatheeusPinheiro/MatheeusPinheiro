@@ -1,9 +1,7 @@
 ## 😎 Olá, meu nome é <strong>Matheus Pinheiro!</strong>
 
 > Sou formado em Sistemas de Informação pela universidade Fametro, tenho 26 anos e atualmente sou desenvolvedor jr na empresa
-> Grupo Alemã
-
-
+> Grupo Alemã.
 
 ---
 
