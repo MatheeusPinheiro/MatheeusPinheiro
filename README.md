@@ -1,6 +1,6 @@
 ## 😎 Olá, meu nome é <strong>Matheus Pinheiro!</strong>
 
->Olá, meu nome é Matheus tenho 26 anos moro em Manaus - AM.    
+>Olá, meu nome é Matheus tenho 27 anos moro em Manaus - AM.    
 >Atualmente trabalho na empresa Grupo Alemã, maior grupo gastronômico do estado do Amazonas.    
 >Meu trabalho se resume em criar melhorias nos processos internos dos funcionarios de outros setores da empresa, crio automações com o framework Botcity para otimizar tarefas repetitivas. tenho conhecimento nas linguagens javascript e Python, HTML5 e CSS3 conhecimento avançado.
 
